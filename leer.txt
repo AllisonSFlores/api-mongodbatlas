@@ -1,0 +1,28 @@
+-------------Usuarios:
+Administrador:
+{
+    "email":"Melvin",
+    "password":"Melvinpw"
+}
+
+-------------Profesores:
+{
+    "email":"Alejandra ",
+    "password":"Alejandrapw"
+},
+{
+    "email":"Diego",
+    "password":"Diegopw"
+}
+
+-------------Estudiantes:
+{
+    "email":"carlos",
+    "password":"carlospw"
+},
+{
+    "email":"Allison",
+    "password":"Allisonpw"
+}
+
+Una vez con el token pueden llamar a los web services
